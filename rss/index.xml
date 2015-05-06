@@ -3,7 +3,7 @@
     <channel>
     <title>dummy hardcoded rss title</title>
     <description></description>
-    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href=""/>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://dugwin.github.io/rss/"/>
     <link>http://dugwin.github.io/</link>
     <pubDate>Fri, 27 Aug 2010 14:41:19 +0400</pubDate>
     
