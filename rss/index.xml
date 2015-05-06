@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-    <title></title>
+    <title>dummy hardcoded rss title</title>
     <description></description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href=""/>
     <link>http://dugwin.github.io/</link>
@@ -11,18 +11,18 @@
     <item>
         <title>Новая кукла</title>
         <pubDate>Fri, 27 Aug 2010 17:32:03 +0400</pubDate>
-        <guid>blog/00001.html</guid>
+        <guid>http://dugwin.github.io/blog/00001.html</guid>
         <description></description>
-        <link>blog/00001.html</link>
+        <link>http://dugwin.github.io/blog/00001.html</link>
         
     </item>
     
     <item>
         <title>Поехали</title>
         <pubDate>Fri, 27 Aug 2010 14:41:19 +0400</pubDate>
-        <guid>blog/00000.html</guid>
+        <guid>http://dugwin.github.io/blog/00000.html</guid>
         <description></description>
-        <link>blog/00000.html</link>
+        <link>http://dugwin.github.io/blog/00000.html</link>
         
     </item>
     
