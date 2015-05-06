@@ -4,13 +4,13 @@
     <title></title>
     <description></description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href=""/>
-    <link></link>
-    <pubDate>2010-08-27 17:32:03</pubDate>
+    <link>http://dugwin.github.io/</link>
+    <pubDate>Fri, 27 Aug 2010 14:41:19 +0400</pubDate>
     
     
     <item>
         <title>Новая кукла</title>
-        <pubDate>2010-08-27 17:32:03</pubDate>
+        <pubDate>Fri, 27 Aug 2010 17:32:03 +0400</pubDate>
         <guid>blog/00001.html</guid>
         <description></description>
         <link>blog/00001.html</link>
@@ -19,7 +19,7 @@
     
     <item>
         <title>Поехали</title>
-        <pubDate>2010-08-27 14:41:19</pubDate>
+        <pubDate>Fri, 27 Aug 2010 14:41:19 +0400</pubDate>
         <guid>blog/00000.html</guid>
         <description></description>
         <link>blog/00000.html</link>
