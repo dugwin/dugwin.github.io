@@ -1,0 +1,304 @@
+body{
+    margin:0;
+    padding:0;
+    background: #eee;
+}
+
+#header{
+    margin: 16px;
+    padding: 16px;
+    
+    background: #ccc;
+    
+    border: solid 1px;
+    border-color: #000;
+}
+#header a {
+ color: #777;
+ text-decoration: none;
+ font-size: 0.7em;
+ font-family: Arial, Verdana, Helvetica, sans-serif;
+ font-weight: bold;
+}
+
+#header a:hover {
+ color: #999;
+}
+
+#container {
+ margin: 8px 16px 8px 16px;
+ background: #f5f6f7;
+ border-left: 1px solid #ddd;
+ border-right: 1px solid #ddd;
+ border-top: 15px solid #ddd;
+ border-bottom: 15px solid #ddd;
+ font-family: Verdana,  Arial, Helvetica, sans-serif;
+ font-size: .70em;
+ 
+ width: 748px;
+}
+
+/* для меню */
+#sidebar {
+ position: relative;
+ float: left;
+ width: 128px;
+ margin: 0 0 0 8px;
+ font-family: Verdana, Arial, Helvetica, sans-serif;
+ font-size: 1.0em;
+ text-align: left; /* IE hack Part 2 */
+ display: inline;
+}
+/*
+    menu title
+*/
+#sidebar h2 {
+ font-size: 1.2em;
+ height: 16px;
+ margin: 0;
+ padding: 0;
+ color: #8B9198;
+}
+
+#sidebar ul {
+ position: relative;
+}
+
+#sidebar ul li {
+ list-style-type: none;
+ list-style-image: none;
+}
+
+#sidebar ul, #sidebar ul li {
+ margin: 0;
+ padding: 0;
+}
+
+/*
+    menu background
+*/
+#sidebar ul li ul{
+ background: #fff;
+}
+
+/* подстройка надписей меню */
+#sidebar ul li ul li{
+ margin: 4px;
+ display: block;
+ padding: 0;
+}
+#sidebar ul li ul li a{
+ display: block;
+ /* вообще говоря настройка ссылок */
+}
+
+#sidebar ul li ul li a:hover{
+ background: #F0F0F0; /* фон при наведении */
+ text-decoration: none;
+}
+
+#sidebar ul li ul li ul {
+ margin: 0;
+ padding: 0;
+}
+
+/* для остального (справа от меню) */
+#content {
+ float: left;
+ width: 600px;
+ background: #ffffff;
+ margin:  0 4px 0 8px;
+ display: inline;
+}
+
+/*
+    post itself
+*/
+.post{
+ color: #3f3f3f;
+ text-align: left;
+
+ margin: 2px;
+ padding: 12px 8px 12px 2px;
+
+ background: #fff;
+
+ border: solid 1px;
+ border-color: #aaa;
+}
+
+.post p{
+ #border: dotted 1px;
+ border-color: #ccc;
+ 
+ margin: 4px 0 8px 0;
+}
+
+h1 {
+    font-weight: 400;
+    font-size: 1.6em;
+    color: #24A;
+}
+
+h2 {
+    font-weight: 400;
+    font-size: 1.4em;
+    color: #24A;
+
+    margin: 8px 0 4px 0;
+    
+    #border: solid 1px;
+}
+
+h3 {
+    font-weight: 400;
+    font-size: 1.1em;
+    color: #24A;
+}
+
+.title a  {
+ text-align: left;
+ height: 14px;
+ display: block;
+ text-decoration: none;
+ font-size: 1.6em;
+ /*padding-top: 4px;*/
+ padding-bottom: 4px;
+}
+
+.title a:hover {
+ color: #55D;
+ text-decoration: none;
+}
+
+.storycontent {
+ border-bottom: 1px solid #BBBBBB;
+ /* padding: 0 0 5px 0; */
+ margin: 8px 2px 2px 2px;
+ font: 1.1em Verdana, Arial, Helvetica, sans-serif;
+ line-height: 18px;
+}
+
+.commentsblock{
+// border-bottom: 1px solid #BBBBBB;
+ padding: 0 0 0 32px;
+ font: 1.1em Verdana, Arial, Helvetica, sans-serif;
+ line-height: 18px;
+}
+
+.comment{
+ float: left;
+ border: 1px solid #BBBBFF;
+}
+
+.comment-hidden{
+ float: left;
+ background: #CCC;
+ border: 1px solid #BBBBFF;
+}
+
+.comment_text{
+ width: 540px;
+ padding: 10px 0 12px 0;
+# border: 1px dotted black;
+}
+
+.comment_avatar{
+    float: left;
+    padding: 4px;
+}
+
+.comment_manage {
+#    border: solid 1px red;
+    float: left;
+    font-size: 0.8em;
+}
+
+.comment_footer {
+    float: right;
+    font-size: 0.8em;
+    padding-right: 4px;
+}
+
+/*
+    common stuff
+*/
+
+a {
+ color: #24A;
+ text-decoration: none;
+}
+
+a:hover {
+ color: #AA0000;
+ text-decoration: underline;
+}
+
+/* ближе к низу */
+div.postnavigation {
+  padding: 4px 0 4px 0;
+/* height: 16px; */
+}
+
+.leftdouble {
+ float: left;
+ padding-left: 10px;
+}
+
+.rightdouble {
+ float: right;
+ padding-right: 10px;
+}
+
+.leftdouble a{
+ color: #24A;
+ // font-size: 0.9em;
+ text-decoration: underline;
+}
+
+.leftdouble a:hover {
+  color: #900;
+}
+
+
+.rightdouble a{
+ color: #24A;
+ // font-size: 0.9em;
+ text-decoration: underline;
+}
+
+.rightdouble a:hover {
+  color: #900;
+}
+
+#footer{
+    padding: 0 0 24px 0;
+    text-align: right;
+    font-size: 0.6em;
+}
+
+/* загадочное и таинственное что-то */
+.clearfix:after {
+ content: ".";
+ display: block; 
+ height: 0; 
+ clear: both; 
+ visibility: hidden;
+}
+
+.clearfix {
+ display: inline-table;
+}
+
+* html .clearfix {
+ height: 1%;
+}
+
+.clearfix {
+ display: block;
+}
+
+img.thumbnail {
+    border: none;
+}
+
