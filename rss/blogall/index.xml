@@ -5,8 +5,35 @@
     <description></description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://dugwin.github.io/rss/"/>
     <link>http://dugwin.github.io/</link>
-    <pubDate>Sat, 29 Sep 2012 11:49:42 +0400</pubDate>
+    <pubDate>Fri, 07 Dec 2012 07:55:37 +0400</pubDate>
     
+    
+    <item>
+        <title>Переезд</title>
+        <pubDate>Mon, 11 May 2015 21:27:35 +0300</pubDate>
+        <guid>http://dugwin.github.io/blog/00425.html</guid>
+        <description>&lt;p&gt;Привет.&lt;/p&gt;
+&lt;p&gt;Так или иначе, в общем бложик переехал на другую площадку, по этой причине пришлось расстаться с кучей всяких полезных и удобных вещей, но ничего не поделаешь. Попутно сломаются все файлы которые лежали в dugwin.net/files/, это всё добро постепенно переезжает на s3 (files.dugwin.net), на настоящий момент переехали только фотки, всё остальное пока пропало.&lt;/p&gt;
+&lt;p&gt;Комментарии теперь на disqus.com, вообще изменений очень много, но основное должно остаться, rss должен более-менее выжить, ну и так далее. По мере наличия времени остальное тоже доедет, гугловские инстанции я на неделе погашу если ничего нового не всплывёт.&lt;/p&gt;
+&lt;p&gt;Такие дела!&lt;/p&gt;
+</description>
+        <link>http://dugwin.github.io/blog/00425.html</link>
+        
+    </item>
+    
+    <item>
+        <title>Пока</title>
+        <pubDate>Sun, 05 Apr 2015 15:39:35 +0300</pubDate>
+        <guid>http://dugwin.github.io/blog/00424.html</guid>
+        <description>&lt;p&gt;Привет.&lt;/p&gt;
+&lt;p&gt;Гугл меня очень очень очень сильно заколебал, поэтому я устал, я ухожу.&lt;/p&gt;
+&lt;p&gt;Это сообщение повисит тут неделю-две чтобы попасть во все rss и потом я всё это дело тут закрою. Закрою, чтобы, конечно, вернуться. В каком-то из видов, в общем то и так движухи особо никакой, как вы заметили, нет.&lt;/p&gt;
+&lt;p&gt;Кстати, принимаются предложения по движкам статических (потому что заколебало) бложиков, сейчас кое-какие варианты уже нашлись, надо всё посмотреть, потестировать… Такие дела.&lt;/p&gt;
+&lt;p&gt;Пока.&lt;/p&gt;
+</description>
+        <link>http://dugwin.github.io/blog/00424.html</link>
+        
+    </item>
     
     <item>
         <title>Закат</title>
@@ -52,6 +79,19 @@
 &lt;p&gt;Попробовал видеоформат. В общем доволен. Проще, кстати, оказалось поставить линукс и собрать в OpenShot чем сделать это как-то под виндой.&lt;/p&gt;
 </description>
         <link>http://dugwin.github.io/blog/00419.html</link>
+        
+    </item>
+    
+    <item>
+        <title>Угадываем!</title>
+        <pubDate>Thu, 05 Sep 2013 09:37:21 +0400</pubDate>
+        <guid>http://dugwin.github.io/blog/00416.html</guid>
+        <description>&lt;p&gt;56% 17.6%&lt;/p&gt;
+&lt;p&gt;1) Угадываем цифры избиркома. 2) Никаких диапазонов, пожалуйста.&lt;/p&gt;
+&lt;p&gt;Это если кто-то был подписан.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;upd:&lt;/b&gt; не совсем угадали.&lt;/p&gt;
+</description>
+        <link>http://dugwin.github.io/blog/00416.html</link>
         
     </item>
     
@@ -158,6 +198,18 @@
     </item>
     
     <item>
+        <title>Эстель, Петербург 21 февраля</title>
+        <pubDate>Fri, 22 Feb 2013 22:48:33 +0400</pubDate>
+        <guid>http://dugwin.github.io/blog/00407.html</guid>
+        <description>&lt;img src=&#34;http://files.dugwin.net/photo/2013/daybyday/img_3256.jpg&#34; alt=&#34;фото с шоу Эстель, Петербург 21 февраля&#34;/&gt;
+
+&lt;p&gt;Ещё не все фото даже просмотрел, но это, точно будет лучшим. Шикарное было шоу, Beggin&#39; до сих пор в голове играет по кругу.&lt;/p&gt;
+</description>
+        <link>http://dugwin.github.io/blog/00407.html</link>
+        
+    </item>
+    
+    <item>
         <title>Перевод Something From Nothing</title>
         <pubDate>Mon, 10 Dec 2012 22:50:39 +0400</pubDate>
         <guid>http://dugwin.github.io/blog/00406.html</guid>
@@ -180,79 +232,14 @@
     </item>
     
     <item>
-        <title>Питер, детка</title>
-        <pubDate>Fri, 07 Dec 2012 00:25:04 +0400</pubDate>
-        <guid>http://dugwin.github.io/blog/00405.html</guid>
-        <description>&lt;p&gt;Без пяти полночь, выхожу из метро, снежок, хорошо. На светофор подъезжает с открытыми окнами чёрный Volkswagen, окна открыты из них фигачит музыка. Вивальди, Зима (часть 3, аллегро).&lt;/p&gt;
-&lt;p&gt;Ещё из любопытного слышал как-то свежий только что вышедший альбом Papa Roach из какого-то джипа, с белым воротничком внутри. А в Сербии слышал, например, Audioslave (Like A Stone).&lt;/p&gt;
-&lt;p&gt;Может кто-то ещё чему-то радовался? Я, кажется, даже RHCP никогда не слышал, только ZZ Top, кстати, Sharp Dressed Man и не из машины, а из мотоцикла.&lt;/p&gt;
+        <title>Rihanna ~ Diamonds</title>
+        <pubDate>Fri, 07 Dec 2012 07:55:37 +0400</pubDate>
+        <guid>http://dugwin.github.io/blog/00404.html</guid>
+        <description>&lt;p&gt;&lt;iframe width=&#34;640&#34; height=&#34;390&#34; src=&#34;http://www.youtube.com/embed/Nw-NHqEa4FA&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;Вот это я понимаю live. Тут свет, там свет, всё со всех углов &#34;работает&#34;. Это вот попса, кажется, называется?&lt;/p&gt;
+&lt;p&gt;Смотреть крайне рекомендуется целиком.&lt;/p&gt;
 </description>
-        <link>http://dugwin.github.io/blog/00405.html</link>
-        
-    </item>
-    
-    <item>
-        <title>Джингл на РСН</title>
-        <pubDate>Wed, 28 Nov 2012 00:30:26 +0400</pubDate>
-        <guid>http://dugwin.github.io/blog/00402.html</guid>
-        <description>&lt;object type=&#34;application/x-shockwave-flash&#34; data=&#34;/swf/player.swf&#34; id=&#34;audioplayer1&#34; height=&#34;24&#34; width=&#34;320&#34;&gt;
-    &lt;param name=&#34;FlashVars&#34; value=&#34;playerID=audioplayer1&amp;soundFile=http://files.dugwin.net/tmp/rsnfire.mp3&#34;&gt;
-    &lt;param name=&#34;quality&#34; value=&#34;high&#34;&gt;
-    &lt;param name=&#34;menu&#34; value=&#34;true&#34;&gt;
-&lt;/object&gt;
-&lt;p&gt;Это мне показалось или это какая-то известная шутка? Почему тогда я последним узнал, потому что перематываю рекламу?&lt;/p&gt;
-</description>
-        <link>http://dugwin.github.io/blog/00402.html</link>
-        
-    </item>
-    
-    <item>
-        <title>Нил Деграсс Тайсон (Neil deGrasse Tyson) о религии</title>
-        <pubDate>Sun, 18 Nov 2012 21:43:39 +0400</pubDate>
-        <guid>http://dugwin.github.io/blog/00400.html</guid>
-        <description>&lt;iframe title=&#34;YouTube video player&#34;
-    width=&#34;640&#34;
-    height=&#34;390&#34;
-    
-    src=&#34;http://www.youtube.com/embed/iNeFH9kJ8JM?rel=0&#34;
-    frameborder=&#34;0&#34;
-    allowfullscreen&gt;
-&lt;/iframe&gt;
-</description>
-        <link>http://dugwin.github.io/blog/00400.html</link>
-        
-    </item>
-    
-    <item>
-        <title>Ф.М. Достоевский: Записки из мёртвого дома</title>
-        <pubDate>Sat, 03 Nov 2012 13:13:22 +0400</pubDate>
-        <guid>http://dugwin.github.io/blog/00398.html</guid>
-        <description>&lt;p&gt;Книги до покупки электронной книги читал по большей части в поезде. Пока ездил — читал, перестал — перестал. Достоевский как раз прочитан был в бумаге, поэтому цитат из него практически нет, но одну я не поленился найти и записать.&lt;/p&gt;
-&lt;p&gt;&#34;Конечно,  остроги  и  система  насильных  работ   не   исправляют преступника; они только его наказывают и обеспечивают общество от дальнейших покушений злодея на  его  спокойствие.&lt;/p&gt;
-&lt;p&gt;В  преступнике  же  острог  и  самая усиленная каторжная работа развивают только  ненависть,  жажду  запрещенных наслаждений и страшное легкомыслие.&#34;&lt;/p&gt;
-&lt;p&gt;Написаны они в 1860-1861 годах, 150 лет назад. Язык очень интересный читается медленно, очень много слов понятных, но не вполне сходу так знакомых.&lt;/p&gt;
-&lt;p&gt;Дальше цитат будет больше, потому что я стал читать электронные книги, которые позволяют &#34;выписывать&#34; прямо находу. Все цитаты я кстати прикладывать не стану, только несколько основных.&lt;/p&gt;
-</description>
-        <link>http://dugwin.github.io/blog/00398.html</link>
-        
-    </item>
-    
-    <item>
-        <title>Нил Деграсс Тайсон интервью на PBS (Neil deGrasse Tyson)</title>
-        <pubDate>Sat, 29 Sep 2012 11:49:42 +0400</pubDate>
-        <guid>http://dugwin.github.io/blog/00395.html</guid>
-        <description>&lt;p&gt;Совершенно чудесное интервью с доктором Тайсоном.&lt;/p&gt;
-&lt;iframe title=&#34;YouTube video player&#34;
-    width=&#34;640&#34;
-    height=&#34;390&#34;
-    
-    src=&#34;http://www.youtube.com/embed/JV7i7LPV8pw?rel=0&#34;
-    frameborder=&#34;0&#34;
-    allowfullscreen&gt;
-&lt;/iframe&gt;
-&lt;p&gt;Перевод вместе с озвучанием занял три с небольшим недели, при поддержке пары независимых экспертов. Ролик получил удивительно положительный отклик, насколько, оказывается, люди изголодались (но не отвыкли!) по нормальной беседе и таким темам.&lt;/p&gt;
-</description>
-        <link>http://dugwin.github.io/blog/00395.html</link>
+        <link>http://dugwin.github.io/blog/00404.html</link>
         
     </item>
     
