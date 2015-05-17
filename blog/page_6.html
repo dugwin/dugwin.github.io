@@ -94,6 +94,51 @@
 	
 	<div class="post">
 			<div class="posttitle">
+				<a href="/blog/00301.html">
+					Зимнее время?
+				</a>
+				
+				
+			</div>
+			
+			
+			
+			<div class="storycontent">
+				
+				<p>Пару лет назад, когда я писал движок для этого блога (кстати, никому аналогичный не нужен? отдам даром) я писал функцию для пересчёта времени UTC в московское, с учётом перевода на зимнее время, выглядело это так:</p>
+<p><font color="#0000ff">if</font> d.year >= 2015:</p>
+<p><font color="#0000ff">return</font> d + datetime.timedelta(hours = 4) <font color="#339900"># переход на зимнее время будет отменён</font></p>
+<p></p>
+<p><font color="#0000ff">if</font> d.year >= 2024:</p>
+<p><font color="#0000ff">return</font> d <font color="#339900"># все будут жить по UTC</font></p>
+<p></p>
+<p>Когда писал этот код, никакой речи об отмене летнего/зимнего времени вообще не шло. Оказалось, чуть-чуть совсем ошибся.</p>
+ 
+				
+				
+			</div>
+
+			<div class="row">
+				<div class="c4">
+					tags: 
+                        
+                            <a href = "/blog/блог">блог</a>
+                        
+					
+				</div>
+				<div class="c5">
+					
+				</div>
+				<div class="c3, text-right" style="font-size: 0.8em;">
+					24.10.2011, 19:37:17
+				</div>
+			</div>
+            <!-- comments, management links and other ex-useful stuff -->
+			
+	</div>
+	
+	<div class="post">
+			<div class="posttitle">
 				<a href="/blog/00300.html">
 					Пара слов о записи звука для видео
 				</a>
@@ -612,51 +657,6 @@
 				</div>
 				<div class="c3, text-right" style="font-size: 0.8em;">
 					21.09.2011, 18:15:29
-				</div>
-			</div>
-            <!-- comments, management links and other ex-useful stuff -->
-			
-	</div>
-	
-	<div class="post">
-			<div class="posttitle">
-				<a href="/blog/00288.html">
-					If we don't, remember me
-				</a>
-				
-				
-			</div>
-			
-			
-			
-			<div class="storycontent">
-				
-				<p>Есть такой совершенно шикарный бложик: <a href="http://iwdrm.tumblr.com/">If we don't, remember me.</a></p>
-<p><img src="http://29.media.tumblr.com/tumblr_ligqu6krzj1qe0eclo1_r13_500.gif" /></p>
-<p>В нём примерно раз в неделю появляются такого формата гифки по мотивам разных фильмов. В некоторые из них, почти во все, можно смотреться очень подолгу.</p>
-<p>Эта, кстати, из «Восемь с половиной» Феллини. Из-за неё я его и посмотрел, кстати. Скука смертная.</p>
- 
-				
-				
-			</div>
-
-			<div class="row">
-				<div class="c4">
-					tags: 
-                        
-                            <a href = "/blog/hlam">hlam</a>, 
-                        
-                            gif, 
-                        
-                            <a href = "/blog/кино">кино</a>
-                        
-					
-				</div>
-				<div class="c5">
-					
-				</div>
-				<div class="c3, text-right" style="font-size: 0.8em;">
-					19.09.2011, 15:45:08
 				</div>
 			</div>
             <!-- comments, management links and other ex-useful stuff -->
