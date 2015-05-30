@@ -5,8 +5,24 @@
     <description></description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://dugwin.github.io/rss/"/>
     <link>http://dugwin.github.io/</link>
-    <pubDate>Fri, 07 Dec 2012 07:55:37 +0400</pubDate>
+    <pubDate>Mon, 10 Dec 2012 22:50:39 +0400</pubDate>
     
+    
+    <item>
+        <title>The Fallen of World War II</title>
+        <pubDate>Sat, 30 May 2015 13:31:12 +0300</pubDate>
+        <guid>http://dugwin.github.io/blog/00426.html</guid>
+        <description>&lt;p&gt;Крутая штука&lt;/p&gt;
+&lt;iframe
+    src=&#34;http://player.vimeo.com/video/128373915?byline=0&amp;amp;portrait=0&#34;
+    width=&#34;640&#34;
+    height=&#34;390&#34;
+    frameborder=&#34;0&#34;&gt;
+&lt;/iframe&gt;
+</description>
+        <link>http://dugwin.github.io/blog/00426.html</link>
+        
+    </item>
     
     <item>
         <title>Переезд</title>
@@ -228,18 +244,6 @@
 &lt;/iframe&gt;
 </description>
         <link>http://dugwin.github.io/blog/00406.html</link>
-        
-    </item>
-    
-    <item>
-        <title>Rihanna ~ Diamonds</title>
-        <pubDate>Fri, 07 Dec 2012 07:55:37 +0400</pubDate>
-        <guid>http://dugwin.github.io/blog/00404.html</guid>
-        <description>&lt;p&gt;&lt;iframe width=&#34;640&#34; height=&#34;390&#34; src=&#34;http://www.youtube.com/embed/Nw-NHqEa4FA&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;Вот это я понимаю live. Тут свет, там свет, всё со всех углов &#34;работает&#34;. Это вот попса, кажется, называется?&lt;/p&gt;
-&lt;p&gt;Смотреть крайне рекомендуется целиком.&lt;/p&gt;
-</description>
-        <link>http://dugwin.github.io/blog/00404.html</link>
         
     </item>
     
