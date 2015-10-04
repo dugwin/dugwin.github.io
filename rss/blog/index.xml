@@ -5,8 +5,26 @@
     <description></description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://dugwin.github.io/rss/"/>
     <link>http://dugwin.github.io/</link>
-    <pubDate>Wed, 28 Nov 2012 00:30:26 +0400</pubDate>
+    <pubDate>Fri, 07 Dec 2012 00:25:04 +0400</pubDate>
     
+    
+    <item>
+        <title>Postmodern Jukebox feat. Morgan James ~ Maps</title>
+        <pubDate>Sun, 04 Oct 2015 23:59:45 +0300</pubDate>
+        <guid>http://dugwin.github.io/blog/00427.html</guid>
+        <description>&lt;iframe title=&#34;YouTube video player&#34;
+    width=&#34;640&#34;
+    height=&#34;390&#34;
+    
+    src=&#34;http://www.youtube.com/embed/8gO_lxThc1M?rel=0&#34;
+    frameborder=&#34;0&#34;
+    allowfullscreen&gt;
+&lt;/iframe&gt;
+&lt;p&gt;Удивительно, но это кавер на удивительно просто &lt;a href=&#34;https://youtu.be/NmugSMBh_iI&#34;&gt;редкое барахло&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <link>http://dugwin.github.io/blog/00427.html</link>
+        
+    </item>
     
     <item>
         <title>The Fallen of World War II</title>
@@ -231,21 +249,6 @@
 &lt;p&gt;Может кто-то ещё чему-то радовался? Я, кажется, даже RHCP никогда не слышал, только ZZ Top, кстати, Sharp Dressed Man и не из машины, а из мотоцикла.&lt;/p&gt;
 </description>
         <link>http://dugwin.github.io/blog/00405.html</link>
-        
-    </item>
-    
-    <item>
-        <title>Джингл на РСН</title>
-        <pubDate>Wed, 28 Nov 2012 00:30:26 +0400</pubDate>
-        <guid>http://dugwin.github.io/blog/00402.html</guid>
-        <description>&lt;object type=&#34;application/x-shockwave-flash&#34; data=&#34;/swf/player.swf&#34; id=&#34;audioplayer1&#34; height=&#34;24&#34; width=&#34;320&#34;&gt;
-    &lt;param name=&#34;FlashVars&#34; value=&#34;playerID=audioplayer1&amp;soundFile=http://files.dugwin.net/tmp/rsnfire.mp3&#34;&gt;
-    &lt;param name=&#34;quality&#34; value=&#34;high&#34;&gt;
-    &lt;param name=&#34;menu&#34; value=&#34;true&#34;&gt;
-&lt;/object&gt;
-&lt;p&gt;Это мне показалось или это какая-то известная шутка? Почему тогда я последним узнал, потому что перематываю рекламу?&lt;/p&gt;
-</description>
-        <link>http://dugwin.github.io/blog/00402.html</link>
         
     </item>
     
