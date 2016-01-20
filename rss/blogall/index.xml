@@ -1,29 +1,96 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-    <title>dummy hardcoded rss title</title>
+    <title>dugwin j. goines</title>
     <description></description>
-    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://dugwin.github.io/rss/"/>
-    <link>http://dugwin.github.io/</link>
-    <pubDate>Thu, 14 Mar 2013 22:10:11 +0400</pubDate>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://www.dugwin.net/rss/"/>
+    <link>http://www.dugwin.net/</link>
+    <pubDate>Tue, 30 Jul 2013 05:05:05 +0400</pubDate>
     
+    
+    <item>
+        <title>Vietnam, Hanoi</title>
+        <pubDate>Thu, 21 Jan 2016 01:29:34 +0300</pubDate>
+        <guid>http://www.dugwin.net/blog/00432.html</guid>
+        <description>&lt;p&gt;Я приехал в Ханой уже после заката. По дороге из аэропорта познакомился с парнем и его мамой, которая уже лет 15 живёт в России и приезжает раз в год-два в Ханой в отпуск.&lt;/p&gt;
+&lt;p&gt;Они сказали мне, что отель мой находится возле самого красивого храма в Ханое и обязательно советовали сходить на ночной рынок. Я не очень понял что там где, в Ханое у меня было запланировано только две ночи и одна из них уже наступила. Уставший после суток в пути я всё-таки отправился побродить.&lt;/p&gt;
+&lt;p&gt;А вы никогда не обращали внимания на то, что обычно часы на фотографиях показывают 10:09? Так выгоднее смотрятся стрелки. В данном случае это чистое совпадение, я действительно там прогуливался в 22:09, совпадает со временем из exif. Причём по exif фото сделано как раз в 22:09, а не 22:14, но это у меня просто часы в фотоаппарате отствали. Это кстати тот самый Hanoi Cathedral возле которого (воооон там справа) я жил.&lt;/p&gt;
+&lt;img src=&#34;http://files.dugwin.net/photo/vietnam2015/5g1a5053-5g1a5055.jpg&#34; alt=&#34;Hanoi Cathedral&#34;/&gt;
+
+&lt;img src=&#34;http://files.dugwin.net/photo/vietnam2015/5g1a5083.jpg&#34; /&gt;
+
+&lt;img src=&#34;http://files.dugwin.net/photo/vietnam2015/5g1a5088.jpg&#34; /&gt;
+
+&lt;p&gt;На фотографиях получилось мало людей, на самом деле это не совсем так, просто я не фотографировал там, где людей было много. Поначалу это было очень непривычно и из отеля в эту толпу выходить очень не хотелось, так что пришлось практически заставлять себя выйти из отеля.&lt;/p&gt;
+&lt;img src=&#34;http://files.dugwin.net/photo/vietnam2015/5g1a5095.jpg&#34; /&gt;
+
+&lt;p&gt;Ну разве не очаровательно?&lt;/p&gt;
+&lt;img src=&#34;http://files.dugwin.net/photo/vietnam2015/5g1a5096.jpg&#34; /&gt;
+
+</description>
+        <link>http://www.dugwin.net/blog/00432.html</link>
+        
+    </item>
+    
+    <item>
+        <title>Dragonair</title>
+        <pubDate>Mon, 16 Nov 2015 00:41:30 +0300</pubDate>
+        <guid>http://www.dugwin.net/blog/00431.html</guid>
+        <description>&lt;img src=&#34;http://files.dugwin.net.s3.amazonaws.com/photo/2015/5g1a5043.jpg&#34; alt=&#34;dragon airlines&#34;/&gt;
+
+&lt;p&gt;Два или три часа мне надо было протусоваться в Гон-Конге. По непонятным мне причинам вот у этого окна, где каждую пару минут приземлялся самолёт, почти никто не сидел. Аэропорт находится на острове, на фото видно за туманом другой берег.&lt;/p&gt;
+&lt;p&gt;Потом у меня был рейс на маленьком самолётике и поэтому уже в чистой зоне автобусом надо было уехать в здание старого аэровокзала и оттуда уже везли в самолёт.&lt;/p&gt;
+</description>
+        <link>http://www.dugwin.net/blog/00431.html</link>
+        
+    </item>
+    
+    <item>
+        <title>Amy Winehouse ~ You Know I'm No Good</title>
+        <pubDate>Sun, 15 Nov 2015 18:30:26 +0300</pubDate>
+        <guid>http://www.dugwin.net/blog/00430.html</guid>
+        <description>&lt;p&gt;Я не большой её любитель, но это по-моему действительно очень мощное выступление.&lt;/p&gt;
+&lt;iframe title=&#34;YouTube video player&#34;
+    width=&#34;640&#34;
+    height=&#34;390&#34;
+    
+    src=&#34;http://www.youtube.com/embed/3DZ-V8VEWsQ?rel=0&#34;
+    frameborder=&#34;0&#34;
+    allowfullscreen&gt;
+&lt;/iframe&gt;
+</description>
+        <link>http://www.dugwin.net/blog/00430.html</link>
+        
+    </item>
+    
+    <item>
+        <title>Отпуск</title>
+        <pubDate>Sun, 15 Nov 2015 18:28:39 +0300</pubDate>
+        <guid>http://www.dugwin.net/blog/00429.html</guid>
+        <description>&lt;p&gt;Привет. Тут такая получилась история, я на 3 недели уезжал в отпуск и где-то на 10й день меня вдруг &#34;отпустило&#34;… Это такое было приятное ощущение, прямо можно почувствовать, как голова стала работать, соображать. Попутные задачки решаются сами собой и отступает желание париться по любому поводу. Но об этом потом. Сейчас актуальнее другое ощущение: как я такой весь хороший и с поправленной психикой вернулся, а со всех сторон все начинают тянуть ко мне свои грязные липкие ручонки, давить проблемами, пытаются загнать обратно в нору обычного городского жителя/офисного работника. Работа, какие-то бытовые заботы… Вот. А так как я временно выздоровел, то я на это всё смотрю и говорю им &#34;неееееет, не хочу&#34; и не даю портить себе настроение прям усилием воли игнорирую несуществующие или несущественные проблемы и проблемки. Ведь очень большая их часть это попытки решить за мой счёт какие-то чужие задачи, но это тема отдельной, конечно, диссертации.&lt;/p&gt;
+&lt;p&gt;И вот я думаю, наверняка же есть люди, которые умеют и не дают себе портить настроение всякой фигне вроде работы и плохой погоды… и вот я продолжаю колебаться где-то на грани этого всего уже вторую неделю.&lt;/p&gt;
+&lt;p&gt;А так я конечно брал с собой немного одежды и много-много фотоаппаратов, надо подумать как это всё можно оформить (и когда) но постараюсь оформить.&lt;/p&gt;
+</description>
+        <link>http://www.dugwin.net/blog/00429.html</link>
+        
+    </item>
     
     <item>
         <title>Закат</title>
         <pubDate>Tue, 13 Oct 2015 18:07:01 +0300</pubDate>
-        <guid>http://dugwin.github.io/blog/00428.html</guid>
+        <guid>http://www.dugwin.net/blog/00428.html</guid>
         <description>&lt;img src=&#34;http://files.dugwin.net/photo/2015/5g1a4427.jpg&#34; alt=&#34;kuptchino sky&#34;/&gt;
 
 &lt;p&gt;В моём понимании, так выглядит слой облаков будучи подсвеченным снизу звездой. 26 cентября 2015.&lt;/p&gt;
 </description>
-        <link>http://dugwin.github.io/blog/00428.html</link>
+        <link>http://www.dugwin.net/blog/00428.html</link>
         
     </item>
     
     <item>
         <title>Postmodern Jukebox feat. Morgan James ~ Maps</title>
         <pubDate>Sun, 04 Oct 2015 23:59:45 +0300</pubDate>
-        <guid>http://dugwin.github.io/blog/00427.html</guid>
+        <guid>http://www.dugwin.net/blog/00427.html</guid>
         <description>&lt;iframe title=&#34;YouTube video player&#34;
     width=&#34;640&#34;
     height=&#34;390&#34;
@@ -34,14 +101,14 @@
 &lt;/iframe&gt;
 &lt;p&gt;Удивительно, но это кавер на потрясающее своей невзрачностью &lt;a href=&#34;https://youtu.be/NmugSMBh_iI&#34;&gt;редкое барахло&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <link>http://dugwin.github.io/blog/00427.html</link>
+        <link>http://www.dugwin.net/blog/00427.html</link>
         
     </item>
     
     <item>
         <title>The Fallen of World War II</title>
         <pubDate>Sat, 30 May 2015 13:31:12 +0300</pubDate>
-        <guid>http://dugwin.github.io/blog/00426.html</guid>
+        <guid>http://www.dugwin.net/blog/00426.html</guid>
         <description>&lt;p&gt;Крутая штука&lt;/p&gt;
 &lt;iframe
     src=&#34;http://player.vimeo.com/video/128373915?byline=0&amp;amp;portrait=0&#34;
@@ -50,52 +117,52 @@
     frameborder=&#34;0&#34;&gt;
 &lt;/iframe&gt;
 </description>
-        <link>http://dugwin.github.io/blog/00426.html</link>
+        <link>http://www.dugwin.net/blog/00426.html</link>
         
     </item>
     
     <item>
         <title>Переезд</title>
         <pubDate>Mon, 11 May 2015 21:27:35 +0300</pubDate>
-        <guid>http://dugwin.github.io/blog/00425.html</guid>
+        <guid>http://www.dugwin.net/blog/00425.html</guid>
         <description>&lt;p&gt;Привет.&lt;/p&gt;
 &lt;p&gt;Так или иначе, в общем бложик переехал на другую площадку, по этой причине пришлось расстаться с кучей всяких полезных и удобных вещей, но ничего не поделаешь. Попутно сломаются все файлы которые лежали в dugwin.net/files/, это всё добро постепенно переезжает на s3 (files.dugwin.net), на настоящий момент переехали только фотки, всё остальное пока пропало.&lt;/p&gt;
 &lt;p&gt;Комментарии теперь на disqus.com, вообще изменений очень много, но основное должно остаться, rss должен более-менее выжить, ну и так далее. По мере наличия времени остальное тоже доедет, гугловские инстанции я на неделе погашу если ничего нового не всплывёт.&lt;/p&gt;
 &lt;p&gt;Такие дела.&lt;/p&gt;
 </description>
-        <link>http://dugwin.github.io/blog/00425.html</link>
+        <link>http://www.dugwin.net/blog/00425.html</link>
         
     </item>
     
     <item>
         <title>Пока</title>
         <pubDate>Sun, 05 Apr 2015 15:39:35 +0300</pubDate>
-        <guid>http://dugwin.github.io/blog/00424.html</guid>
+        <guid>http://www.dugwin.net/blog/00424.html</guid>
         <description>&lt;p&gt;Привет.&lt;/p&gt;
 &lt;p&gt;Гугл меня очень очень очень сильно заколебал, поэтому я устал, я ухожу.&lt;/p&gt;
 &lt;p&gt;Это сообщение повисит тут неделю-две чтобы попасть во все rss и потом я всё это дело тут закрою. Закрою, чтобы, конечно, вернуться. В каком-то из видов, в общем то и так движухи особо никакой, как вы заметили, нет.&lt;/p&gt;
 &lt;p&gt;Кстати, принимаются предложения по движкам статических (потому что заколебало) бложиков, сейчас кое-какие варианты уже нашлись, надо всё посмотреть, потестировать… Такие дела.&lt;/p&gt;
 &lt;p&gt;Пока.&lt;/p&gt;
 </description>
-        <link>http://dugwin.github.io/blog/00424.html</link>
+        <link>http://www.dugwin.net/blog/00424.html</link>
         
     </item>
     
     <item>
         <title>Закат</title>
         <pubDate>Thu, 02 Oct 2014 22:47:22 +0400</pubDate>
-        <guid>http://dugwin.github.io/blog/00423.html</guid>
+        <guid>http://www.dugwin.net/blog/00423.html</guid>
         <description>&lt;img src=&#34;http://files.dugwin.net/photo/2014/5G1A2545.jpg&#34; alt=&#34;закат&#34;/&gt;
 
 </description>
-        <link>http://dugwin.github.io/blog/00423.html</link>
+        <link>http://www.dugwin.net/blog/00423.html</link>
         
     </item>
     
     <item>
         <title>Беэр-Шева, Израиль</title>
         <pubDate>Mon, 14 Jul 2014 11:43:13 +0400</pubDate>
-        <guid>http://dugwin.github.io/blog/00422.html</guid>
+        <guid>http://www.dugwin.net/blog/00422.html</guid>
         <description>&lt;iframe title=&#34;YouTube video player&#34;
     width=&#34;640&#34;
     height=&#34;390&#34;
@@ -106,14 +173,14 @@
 &lt;/iframe&gt;
 &lt;p&gt;Второй видеоотчётик.&lt;/p&gt;
 </description>
-        <link>http://dugwin.github.io/blog/00422.html</link>
+        <link>http://www.dugwin.net/blog/00422.html</link>
         
     </item>
     
     <item>
         <title>Гейдельберг, Германия</title>
         <pubDate>Mon, 13 Jan 2014 11:32:12 +0400</pubDate>
-        <guid>http://dugwin.github.io/blog/00419.html</guid>
+        <guid>http://www.dugwin.net/blog/00419.html</guid>
         <description>&lt;iframe title=&#34;YouTube video player&#34;
     width=&#34;640&#34;
     height=&#34;390&#34;
@@ -124,49 +191,49 @@
 &lt;/iframe&gt;
 &lt;p&gt;Попробовал видеоформат. В общем доволен. Проще, кстати, оказалось поставить линукс и собрать в OpenShot чем сделать это как-то под виндой.&lt;/p&gt;
 </description>
-        <link>http://dugwin.github.io/blog/00419.html</link>
+        <link>http://www.dugwin.net/blog/00419.html</link>
         
     </item>
     
     <item>
         <title>Угадываем!</title>
         <pubDate>Thu, 05 Sep 2013 09:37:21 +0400</pubDate>
-        <guid>http://dugwin.github.io/blog/00416.html</guid>
+        <guid>http://www.dugwin.net/blog/00416.html</guid>
         <description>&lt;p&gt;56% 17.6%&lt;/p&gt;
 &lt;p&gt;1) Угадываем цифры избиркома. 2) Никаких диапазонов, пожалуйста.&lt;/p&gt;
 &lt;p&gt;Это если кто-то был подписан.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;upd:&lt;/b&gt; не совсем угадали.&lt;/p&gt;
 </description>
-        <link>http://dugwin.github.io/blog/00416.html</link>
+        <link>http://www.dugwin.net/blog/00416.html</link>
         
     </item>
     
     <item>
         <title>Синопская набережная</title>
         <pubDate>Wed, 31 Jul 2013 10:37:54 +0400</pubDate>
-        <guid>http://dugwin.github.io/blog/00415.html</guid>
+        <guid>http://www.dugwin.net/blog/00415.html</guid>
         <description>&lt;img src=&#34;http://files.dugwin.net/photo/2013/daybyday/img_6517.jpg&#34; alt=&#34;Синопская набережная&#34;/&gt;
 
 </description>
-        <link>http://dugwin.github.io/blog/00415.html</link>
+        <link>http://www.dugwin.net/blog/00415.html</link>
         
     </item>
     
     <item>
         <title>Большеохтинский мост</title>
         <pubDate>Tue, 30 Jul 2013 15:10:28 +0400</pubDate>
-        <guid>http://dugwin.github.io/blog/00414.html</guid>
+        <guid>http://www.dugwin.net/blog/00414.html</guid>
         <description>&lt;img src=&#34;http://files.dugwin.net/photo/2013/daybyday/img_6603.jpg&#34; alt=&#34;Большеохтинский мост&#34;/&gt;
 
 </description>
-        <link>http://dugwin.github.io/blog/00414.html</link>
+        <link>http://www.dugwin.net/blog/00414.html</link>
         
     </item>
     
     <item>
         <title>Поснимал мосты</title>
         <pubDate>Tue, 30 Jul 2013 05:05:05 +0400</pubDate>
-        <guid>http://dugwin.github.io/blog/00413.html</guid>
+        <guid>http://www.dugwin.net/blog/00413.html</guid>
         <description>&lt;img src=&#34;http://files.dugwin.net/blog/bridges.png&#34; alt=&#34;выдержки по мостам&#34;/&gt;
 
 &lt;p&gt;С неделю ещё назад написал скриптик, который высчитывает статистику по выдержкам по снятым кадрам. Не знаю почему, меня она очень веселит. Подборку такой статистики я отдельно потом опубликую.&lt;/p&gt;
@@ -174,72 +241,7 @@
 &lt;p&gt;Катался на роликах, проехал примерно 12 километров при этом, завтра выходной.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://instagram.com/p/cXhxsSq-m-/&#34;&gt;p.s.&lt;/a&gt; сами мосты конечно будут, но чуть позже.&lt;/p&gt;
 </description>
-        <link>http://dugwin.github.io/blog/00413.html</link>
-        
-    </item>
-    
-    <item>
-        <title>Burlesque</title>
-        <pubDate>Fri, 26 Jul 2013 09:56:17 +0400</pubDate>
-        <guid>http://dugwin.github.io/blog/00412.html</guid>
-        <description>&lt;img src=&#34;http://files.dugwin.net/photo/2013/daybyday/img_6196.jpg&#34; /&gt;
-
-&lt;p&gt;Поснимал в кабаре (приезжали аж целые &lt;a href=&#34;http://www.thefollymixtures.co.uk/&#34;&gt;The Folly Mixtures&lt;/a&gt;). Вообще вроде было весело, но для фотографа — работа как работа: ищешь точку, ловишь моменты. Только потом дома на фотографиях посмотрел, вон, оказывается что как. У нас они почти без света выступали (вообще без света), светить приходилось вспышкой, поэтому фото не фонтан.&lt;/p&gt;
-</description>
-        <link>http://dugwin.github.io/blog/00412.html</link>
-        
-    </item>
-    
-    <item>
-        <title>Remote Volume Control</title>
-        <pubDate>Sat, 15 Jun 2013 12:20:43 +0400</pubDate>
-        <guid>http://dugwin.github.io/blog/00411.html</guid>
-        <description>&lt;p&gt;Есть такая клёвая простенькая программа для телефона: Remote Volume Control. Делает одну простую вещь - даёт крутить громкость на компьютере (PC). Удобно: включил кино, упал в гамак и когда вдруг возникла необходимость — подкручиваешь громкость.&lt;/p&gt;
-&lt;p&gt;Вдруг в какой-то чудесный день программа просто молча перестала работать. Никаких обновлений не было, настройки сети не менялись... Как-то я вот не привык чтобы программы вдруг ломались и переставали работать сами по себе.&lt;/p&gt;
-&lt;p&gt;Отступая от темы, вообще говоря есть веб-интерфейс и даже специализированный клиент для vlc, который, в том числе, и громкость позволяет крутить, но у него есть два недостатка: он не будет работать для других плееров или youtube и второе - он медленный (потому что tcp).&lt;/p&gt;
-&lt;p&gt;Возвращаясь к предмету, Remote Volume Control очень простая программа она позволяет крутить системный master volume. Для работы нужно ещё запустить простенький консольный сервер, работает он мгновенно и ещё умеет гасить монитор. Гасить монитор мне не надо вообще никогда, вот выключение питания помогло бы… ну нет так нет, не об этом речь.&lt;/p&gt;
-&lt;p&gt;В общем вдруг внезапно программа просто тихо перестала работать. Я всю голову сломал, в чём может быть дело. Удалил некоторые недавно установленные программы, думал кто-то занял её порт или что-то такое… что я только не пробовал. Ближе к концу я уже при помощи &lt;a href=&#34;http://nc110.sourceforge.net/&#34;&gt;netcat&lt;/a&gt; стал изучать протокол, в отчаянной попытке понять что же может быть не так.&lt;/p&gt;
-&lt;p&gt;Так вот работает эта штука по UDP, занимает 5555-й порт. Просто шлёт команду и не ожидает, похоже, никакого ответа. Что, с одной стороны клёво: работает очень быстро. С другой стороны полное отсутствие обратной связи: вообще не понятно дошло ли сообщение или нет.&lt;/p&gt;
-&lt;p&gt;Сам протокол… &#34;протокол&#34; это громко очень сказано, просто при смене громкости с телефона приходит &#34;0.25&#34; например, прямо текстом. Это значит 25% громкости. А по команде &#34;погасить монитор&#34; приходит 1.00, вот и весь протокол.&lt;/p&gt;
-&lt;p&gt;При помощи того же netcat я пробовал эмулировать и клиент, может серверная часть &#34;протухла&#34; и с ней что-то не то, писал те же 0.25… нет успеха, сервер не реагировал вообще никак (а при нормальной работе он показывает какую ставит громкость).&lt;/p&gt;
-&lt;p&gt;Поставил сниффер, снова написал что-то в netcat и тут бах, у меня гаснет монитор.&lt;/p&gt;
-&lt;p&gt;Думаю: &#34;нормальный сниффер, убил мне систему&#34;. Оказалось, монитор погасил мне сервер от Remote Volume Control, причём по команде и написал про это в консоли.&lt;/p&gt;
-&lt;p&gt;&#34;Вот это уже интересно&#34;, подумал я. Смотрю что я последнее отправил - &#34;123&#34;. Снова пишу &#34;123&#34;, - монитор корректно гаснет. Так же он гаснет если писать &#34;321&#34;, &#34;12&#34;, любые цифры, а если встречается буква, то никакой реакции. И если писать законную команду на отключение монитора &#34;1.00&#34; то тоже тишина.&lt;/p&gt;
-&lt;p&gt;И вот тут меня осенило: десятичная точка. Ну и точно, пишу &#34;1,00&#34; - монитор гаснет. &#34;0,25&#34;, пишет что 25% громкости.&lt;/p&gt;
-&lt;p&gt;Вспомнил что какое-то время назад я из-за одной программы, не важно какой, хотя это был брокерский клиент для альфа-банка, был вынужден сменить региональные настройки на русские.&lt;/p&gt;
-&lt;p&gt;Зашёл в региональные настройки, сменил десятичный разделитель с запятой на точку и всё у меня заработало.&lt;/p&gt;
-</description>
-        <link>http://dugwin.github.io/blog/00411.html</link>
-        
-    </item>
-    
-    <item>
-        <title>Культурная пятница: Maximum The Hormone</title>
-        <pubDate>Wed, 24 Apr 2013 17:42:22 +0400</pubDate>
-        <guid>http://dugwin.github.io/blog/00410.html</guid>
-        <description>&lt;iframe title=&#34;YouTube video player&#34;
-    width=&#34;640&#34;
-    height=&#34;390&#34;
-    
-    src=&#34;http://www.youtube.com/embed/sSv8ncvwQeg?rel=0&#34;
-    frameborder=&#34;0&#34;
-    allowfullscreen&gt;
-&lt;/iframe&gt;
-&lt;p&gt;Чего-то я их проспал.&lt;/p&gt;
-</description>
-        <link>http://dugwin.github.io/blog/00410.html</link>
-        
-    </item>
-    
-    <item>
-        <title>Скорость чтения</title>
-        <pubDate>Thu, 14 Mar 2013 22:10:11 +0400</pubDate>
-        <guid>http://dugwin.github.io/blog/00409.html</guid>
-        <description>&lt;p&gt;&lt;a href=&#34;http://www.dugwin.net/blog/00371.html&#34;&gt;Пишем&lt;/a&gt;: &#34;известные мне электронные книжки не имеют простой функции — вычисление скорости чтения&#34;.&lt;/p&gt;
-&lt;p&gt;Читаем: &#34;Kindle Touch calculates your reading speed to let you know when you&#39;ll finish your chapter or book&#34;. Причём это из анонса обновления которое приедет только на следующей неделе. А само обновление уже приехало, читал я его с самого киндла, красавцы.&lt;/p&gt;
-&lt;p&gt;Хотел? Получай. Ещё я хотел нормальные номера страниц, спасибо.&lt;/p&gt;
-</description>
-        <link>http://dugwin.github.io/blog/00409.html</link>
+        <link>http://www.dugwin.net/blog/00413.html</link>
         
     </item>
     

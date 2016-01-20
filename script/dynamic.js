@@ -3,8 +3,8 @@
     var hst = document.location.hostname.substr(0, 4);
     if (hst == '127.' || hst == '192.' || document.location.hostname.toLowerCase() == 'localhost') {
         fieldNameElement.innerHTML += 'running local</br>';
-        fieldNameElement.innerHTML += '<a href="/cgi/edit/">new2</a><br/>';
-        fieldNameElement.innerHTML += '<a href="/cgi/hybernate/">hybernate</a>';
+        fieldNameElement.innerHTML += '<a href="/cgi/edit/">new post</a><br/>';
+        fieldNameElement.innerHTML += '<a href="/cgi/s3/">s3 console</a>';
         
         var posts = document.getElementsByName('dynamicdiv');
         

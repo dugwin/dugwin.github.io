@@ -35,10 +35,6 @@ tr, td{
 	common tags
 */
 
-img {
-	max-width:100%; max-height:100%;
-}
-
 a {
  color: #24A;
  text-decoration: none;
@@ -122,7 +118,7 @@ h3 {
 }
 .storycontent {
 	border-bottom: 1px solid #BBBBBB;
-	padding-bottom: 2px;
+	padding-bottom: 6px;
 	margin-bottom: 2px;
 	line-height: 18px;
 }
@@ -134,11 +130,34 @@ h3 {
 	font-size: 1.6em;
 }
 
+img {
+    padding: 0;
+    margin: 2px 0 8px 0;
+    /*
+    border: solid 1px;
+    border-color: #c00;
+    */
+	max-width:100%; max-height:100%;
+}
+
 .post p{
 	/* margin: 2px 0 12px 0px; */
     /* max-width: 740px; */
-	margin: 6px 0 12px 0px;
-	padding: 0 4px 0 0;
+    
+    margin: 8px 0 2px 0;
+    /*6px 0 12px 0px;*/
+    /*padding: 12px 4px 2px 4px;*/
+    padding: 0;
+
+    /*border: solid 1px;
+    border-color: #0eb;*/
+    
+	/*
+    old
+    
+    margin: 6px 0 12px 0px;
+    padding: 0 40px 0 0;
+    */
 }
 
 div.postnavigation {

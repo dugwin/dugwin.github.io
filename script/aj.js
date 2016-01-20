@@ -1,4 +1,4 @@
-var imganimation = '/image/ajanimation.gif'
+var imganimation = '/images/ajanimation.gif'
 
 function GetXmlHttpObject() {
         var xmlHttp=null;
