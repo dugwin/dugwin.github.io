@@ -23,6 +23,11 @@
 &lt;p&gt;Третья.&lt;/p&gt;
 &lt;img src=&#34;http://files.dugwin.net/photo/vietnam2015/5g1a5161.jpg&#34; /&gt;
 
+&lt;object type=&#34;application/x-shockwave-flash&#34; data=&#34;/swf/player.swf&#34; id=&#34;audioplayer1&#34; height=&#34;24&#34; width=&#34;320&#34;&gt;
+    &lt;param name=&#34;FlashVars&#34; value=&#34;playerID=audioplayer1&amp;soundFile=http://files.dugwin.net/sound/2015/01_hanoi_SR005F.mp3&#34;&gt;
+    &lt;param name=&#34;quality&#34; value=&#34;high&#34;&gt;
+    &lt;param name=&#34;menu&#34; value=&#34;true&#34;&gt;
+&lt;/object&gt;
 &lt;img src=&#34;http://files.dugwin.net/photo/vietnam2015/5g1a5163.jpg&#34; /&gt;
 
 &lt;img src=&#34;http://files.dugwin.net/photo/vietnam2015/5g1a5164.jpg&#34; /&gt;
