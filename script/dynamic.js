@@ -11,6 +11,7 @@
         for (var i = 0; i < posts.length; ++i) {
             var item = posts[i];  
             var id = item.id;
-            item.innerHTML = '<a href="/cgi/edit/'+id+'.html">[e]</a>';
+            item.innerHTML = '<a href="/cgi/edit/'+id+'.html">[e]</a>' +
+                    '<a href="/cgi/ljexport/'+id+'.html">[lj]</a>';
         }
     }
