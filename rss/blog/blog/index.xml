@@ -5,8 +5,17 @@
     <description></description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://www.dugwin.net/rss/blog/blog/"/>
     <link>http://www.dugwin.net/</link>
-    <pubDate>Thu, 17 Nov 2011 20:13:52 +0400</pubDate>
+    <pubDate>Tue, 22 Nov 2011 02:22:32 +0400</pubDate>
     
+    
+    <item>
+        <title>Отпуск</title>
+        <pubDate>Fri, 21 Oct 2016 19:49:39 +0300</pubDate>
+        <guid>http://www.dugwin.net/blog/00456.html</guid>
+        <description>None</description>
+        <link>http://www.dugwin.net/blog/00456.html</link>
+        
+    </item>
     
     <item>
         <title>Отпуск</title>
@@ -236,15 +245,6 @@
         <guid>http://www.dugwin.net/blog/00316.html</guid>
         <description>None</description>
         <link>http://www.dugwin.net/blog/00316.html</link>
-        
-    </item>
-    
-    <item>
-        <title>Про инновации в подаче текста</title>
-        <pubDate>Thu, 17 Nov 2011 20:13:52 +0400</pubDate>
-        <guid>http://www.dugwin.net/blog/00313.html</guid>
-        <description>None</description>
-        <link>http://www.dugwin.net/blog/00313.html</link>
         
     </item>
     
