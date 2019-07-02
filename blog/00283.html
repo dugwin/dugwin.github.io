@@ -9,6 +9,7 @@
 <link rel="stylesheet" type="text/css" href="/css/ivory.css"/>
 <link rel="stylesheet" type="text/css" href="/css/dugwin.css"/>
 
+<script type="text/javascript" src="/script/izoom.js"></script>
 </head>
 <body>
 
@@ -83,7 +84,9 @@
 		<div class="c10">
 		<div class="content">
 			
-	<div class="post">
+	<div class="post" style="border-color: blue">
+        
+
         <div class="posttitle">Танковое шоу
         
         
@@ -92,13 +95,12 @@
         <div class="storycontent">
             
             
-			<img src="http://files.dugwin.net/photo/daybyday/img_6936.jpg" />
+			<div><img src="http://files.dugwin.net/photo/daybyday/img_6936.jpg" width="900" height="600" onclick="izoom(this)" /></div>
 
-<object type="application/x-shockwave-flash" data="/swf/player.swf" id="audioplayer1" height="24" width="320">
-    <param name="FlashVars" value="playerID=audioplayer1&soundFile=http://www.dugwin.net/files/ambient/20110910-tankbattle.mp3">
-    <param name="quality" value="high">
-    <param name="menu" value="true">
-</object>
+<audio controls preload="none">
+      <source src="http://files.dugwin.net//migrate/ambient/20110910-tankbattle.mp3" type="audio/mpeg">
+    Not exactly my tempo!
+</audio>
 <p>Это у нас тут танковое шоу прошло, было забавно. Точно на последних выстрелах и объявлении о том, что умелыми действиями нашего экипажа противник остановлен и отброшен, пошёл такой ливень, что через 15 секунд вообще уже не было смысла искать укрытие. Как они сумели так синхронизироваться с дождём — загадка.</p>
 
         </div>
@@ -143,8 +145,6 @@
         
 		</div>
 		</div>
-
-
 
 
 
