@@ -5,8 +5,34 @@
     <description></description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://www.dugwin.net/rss/blog/"/>
     <link>http://www.dugwin.net/</link>
-    <pubDate>Wed, 07 Dec 2016 00:03:50 +0300</pubDate>
+    <pubDate>Wed, 21 Dec 2016 23:48:05 +0300</pubDate>
     
+    
+    <item>
+        <title>Только не ной</title>
+        <pubDate>Sun, 28 Jul 2019 20:44:26 +0300</pubDate>
+        <guid>http://www.dugwin.net/blog/00476.html</guid>
+        <description>&lt;p&gt;Решил тряхнуть стариной и попробовать собрать минус под соло. Где-то я от кого-то слышал, что в комплекте с моей Yamaha THR 10 шёл Cubase, решил проверить. Оказалось, действительно идёт, дали скачать и даже оказалось действующей лицензия.&lt;/p&gt;
+&lt;p&gt;Полтора дня я бился в муках с проблемами ASIO, VXT и самим Cubase. Из любопытного, например, оказалось что не строят больше чем на полтона инструменты из библиотек (из-за проблем с какими-то драйверами), короче было весело.&lt;/p&gt;
+&lt;p&gt;На сведение и репетиции времени не было, но было весело!&lt;/p&gt;
+&lt;a href = &#34;http://files.dugwin.net/sound/2019/dontcrymixfix.mp3&#34;&gt;mp3 link&lt;/a&gt;&lt;br/&gt;
+</description>
+        <link>http://www.dugwin.net/blog/00476.html</link>
+        
+    </item>
+    
+    <item>
+        <title>Про журналистику</title>
+        <pubDate>Tue, 02 Jul 2019 19:34:21 +0300</pubDate>
+        <guid>http://www.dugwin.net/blog/00475.html</guid>
+        <description>&lt;p&gt;Вот чудесный Пивоваров развесил уши и слушает какого-то звукоча world of tanks: &lt;a href=&#34;https:\\youtu.be/nCpq4-NbS24?t=1689&#34;&gt;youtu.be/nCpq4-NbS24?t=1689&lt;/a&gt;(про звук танка)&lt;/p&gt;
+&lt;p&gt;А вот то что я лично слышал и записал &lt;a href=&#34;http://www.dugwin.net/blog/00283.html&#34;&gt;несколько лет назад&lt;/a&gt;.&lt;/p&gt;
+&lt;a href = &#34;http://files.dugwin.net/migrate/ambient/20110910-tankbattle.mp3&#34;&gt;mp3 link&lt;/a&gt;&lt;br/&gt;
+&lt;p&gt;This is your little secret of media business: whenever they report on something you actually know about - it is &lt;i&gt;always wrong&lt;/i&gt; © Adam Curry. Была где-то нарезана цитата, но найти не сумел.&lt;/p&gt;
+</description>
+        <link>http://www.dugwin.net/blog/00475.html</link>
+        
+    </item>
     
     <item>
         <title>КП: The Hatters</title>
@@ -238,34 +264,6 @@
 &lt;p&gt;Продолжение &lt;a href=&#34;/blog/00459.html&#34;&gt;внутри инсайда&lt;/a&gt;.&lt;/p&gt;
 </description>
         <link>http://www.dugwin.net/blog/00459.html</link>
-        
-    </item>
-    
-    <item>
-        <title>Куба, часть 2: Революция</title>
-        <pubDate>Mon, 12 Dec 2016 09:51:08 +0300</pubDate>
-        <guid>http://www.dugwin.net/blog/00458.html</guid>
-        <description>&lt;p&gt;Я, надо сказать, почти ничего не знал о кубинской революции, Фиделе, Че Геваре и так далее. Очень было интересно это всё изучать прямо на месте событий и проезжая по тем самым городам где всё происходило. Было всё совсем недавно и оттого кажется живее, ближе и правдивее.&lt;/p&gt;
-&lt;p&gt;Я бы сказал, что примерно треть всего интересного что было на Кубе было про разные аспекты и события революции.&lt;/p&gt;
-&lt;img src=&#34;http://files.dugwin.net/photo/cuba2016/5g1a3688.jpg&#34; width=&#34;944&#34; height=&#34;629&#34; /&gt;
-
-&lt;p&gt;Дальше &lt;a href=&#34;/blog/00458.html&#34;&gt;больше&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <link>http://www.dugwin.net/blog/00458.html</link>
-        
-    </item>
-    
-    <item>
-        <title>Куба, часть 1: Колониальное наследие</title>
-        <pubDate>Wed, 07 Dec 2016 00:03:50 +0300</pubDate>
-        <guid>http://www.dugwin.net/blog/00457.html</guid>
-        <description>&lt;p&gt;Куба - &lt;i&gt;безумно&lt;/i&gt; интересное место.&lt;/p&gt;
-&lt;img src=&#34;http://files.dugwin.net/photo/cuba2016/5g1a0114.jpg&#34; width=&#34;944&#34; height=&#34;629&#34; /&gt;
-
-&lt;p&gt;Диковинная южная страна в которой в ноябре 25-30 градусов, световой день длится 11 часов, и это далеко не самое интересное. Самое интересное это уникальные заповедные условия в которых существует республика в результате  событий новейшей истории, а именно революции прямо под боком у США, вызванными этим изоляцией и консервацией страны прямо там, в 60-х годах 20-го века.&lt;/p&gt;
-&lt;p&gt;Дальше &lt;a href=&#34;/blog/00457.html&#34;&gt;больше&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <link>http://www.dugwin.net/blog/00457.html</link>
         
     </item>
     
