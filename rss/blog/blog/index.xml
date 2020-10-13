@@ -5,8 +5,21 @@
     <description></description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://www.dugwin.net/rss/blog/blog/"/>
     <link>http://www.dugwin.net/</link>
-    <pubDate>Mon, 14 Jul 2014 11:43:13 +0400</pubDate>
+    <pubDate>Sun, 05 Apr 2015 15:39:35 +0300</pubDate>
     
+    
+    <item>
+        <title>youtube</title>
+        <pubDate>Tue, 13 Oct 2020 23:36:08 +0300</pubDate>
+        <guid>http://www.dugwin.net/blog/00483.html</guid>
+        <description>&lt;p&gt;Очень чётко где-то пару лет назад мой мир полностью переключился на youtube. Примерно тогда я настроил сочетание yt для поиска по youtube.&lt;/p&gt;
+&lt;p&gt;Когда мне скучно и нечего делать, настроение &#34;ну-ка, развлеки меня&#34; - я просто открываю youtube. Там дальше два способа - или рекомендации или то что я когда-то добавил в watch later. Иногда микс из этого. Я не смотрю телевизор (хотя конечно смотрю некоторые передачи из телевизора), я почти не смотрю сериалы, я вообще не смотрю современное кино.&lt;/p&gt;
+&lt;p&gt;Конечно, я смотрел youtube и до этого, но вот года два назад мир стал окончательно другим. ЯМЫ youtube.&lt;/p&gt;
+&lt;p&gt;При этом особенно интересно то, что самые ценные для меня видео, - это какая-то никому не интересная фигня с аудиторией меньше 100 тысяч человек, но это контент сделанный вот для строго таких ушибленных вроде меня. В моём случае это какие-то гитарные каналы или 3blue1brown, для кого-то это мастер-классы по собиранию домиков из спичек. И это прекрасно, а большой &#34;телек&#34; отмирает и это прекрасно.&lt;/p&gt;
+</description>
+        <link>http://www.dugwin.net/blog/00483.html</link>
+        
+    </item>
     
     <item>
         <title>Помидорная техника</title>
@@ -246,24 +259,6 @@
 &lt;p&gt;Пока.&lt;/p&gt;
 </description>
         <link>http://www.dugwin.net/blog/00424.html</link>
-        
-    </item>
-    
-    <item>
-        <title>Беэр-Шева, Израиль</title>
-        <pubDate>Mon, 14 Jul 2014 11:43:13 +0400</pubDate>
-        <guid>http://www.dugwin.net/blog/00422.html</guid>
-        <description>&lt;iframe title=&#34;YouTube video player&#34;
-    width=&#34;640&#34;
-    height=&#34;390&#34;
-    
-    src=&#34;http://www.youtube.com/embed/hGKzyg56UuQ?rel=0&#34;
-    frameborder=&#34;0&#34;
-    allowfullscreen&gt;
-&lt;/iframe&gt;
-&lt;p&gt;Второй видеоотчётик.&lt;/p&gt;
-</description>
-        <link>http://www.dugwin.net/blog/00422.html</link>
         
     </item>
     
