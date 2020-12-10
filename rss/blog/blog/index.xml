@@ -5,8 +5,33 @@
     <description></description>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://www.dugwin.net/rss/blog/blog/"/>
     <link>http://www.dugwin.net/</link>
-    <pubDate>Sun, 05 Apr 2015 15:39:35 +0300</pubDate>
+    <pubDate>Sun, 15 Nov 2015 18:28:39 +0300</pubDate>
     
+    
+    <item>
+        <title>KPI</title>
+        <pubDate>Thu, 10 Dec 2020 20:57:59 +0300</pubDate>
+        <guid>http://www.dugwin.net/blog/00485.html</guid>
+        <description>&lt;p&gt;Вот вроде бы и дебилу понятно, что если внедрить в конторе отчётность по KPI, то через полдня все перестнут работать и начнут долбить KPI. Тем не менее, лидеры рынков и крупнейшие чемпионы продолжают страдать этим маразмом.&lt;/p&gt;
+&lt;p&gt;Вот на этой неделе мне попалось аж два видео где проблема осознана и вербализована уж яснее некуда:&lt;/p&gt;
+&lt;p&gt;Михална: &lt;a href=&#34;https:\\youtu.be/XocpON2gqHo?t=2255&#34;&gt;youtu.be/XocpON2gqHo?t=2255&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Вадимыч: &lt;a href=&#34;https:\\youtu.be/60tyVn-I-hw?t=1286&#34;&gt;youtu.be/60tyVn-I-hw?t=1286&lt;/a&gt;&lt;/p&gt;
+</description>
+        <link>http://www.dugwin.net/blog/00485.html</link>
+        
+    </item>
+    
+    <item>
+        <title>COVID-19</title>
+        <pubDate>Thu, 15 Oct 2020 20:43:17 +0300</pubDate>
+        <guid>http://www.dugwin.net/blog/00484.html</guid>
+        <description>&lt;p&gt;Надо бы что-то записать.&lt;/p&gt;
+&lt;p&gt;Сладковатый липкий ужас во время PA об ответственности вплоть до уголовной. Почти пустые улицы и вообще пустые реки. Ничего не понятно, никто из знакомых ещё не болел но очень, очень страшно. Или вообще не страшно...&lt;/p&gt;
+&lt;p&gt;Как изменились проблемы... Полгода назад я думал что надо срочно делать новы паспорт, новую визу, всё спланировать, не остаться без заграна... А сейчас... Можно застра, можно через год. Я точно не поеду зарубеж ещё полгода-год....&lt;/p&gt;
+</description>
+        <link>http://www.dugwin.net/blog/00484.html</link>
+        
+    </item>
     
     <item>
         <title>youtube</title>
@@ -232,33 +257,6 @@
 &lt;p&gt;А так я конечно брал с собой немного одежды и много-много фотоаппаратов, надо подумать как это всё можно оформить (и когда) но постараюсь оформить.&lt;/p&gt;
 </description>
         <link>http://www.dugwin.net/blog/00429.html</link>
-        
-    </item>
-    
-    <item>
-        <title>Переезд</title>
-        <pubDate>Mon, 11 May 2015 21:27:35 +0300</pubDate>
-        <guid>http://www.dugwin.net/blog/00425.html</guid>
-        <description>&lt;p&gt;Привет.&lt;/p&gt;
-&lt;p&gt;Так или иначе, в общем бложик переехал на другую площадку, по этой причине пришлось расстаться с кучей всяких полезных и удобных вещей, но ничего не поделаешь. Попутно сломаются все файлы которые лежали в dugwin.net/files/, это всё добро постепенно переезжает на s3 (files.dugwin.net), на настоящий момент переехали только фотки, всё остальное пока пропало.&lt;/p&gt;
-&lt;p&gt;Комментарии теперь на disqus.com, вообще изменений очень много, но основное должно остаться, rss должен более-менее выжить, ну и так далее. По мере наличия времени остальное тоже доедет, гугловские инстанции я на неделе погашу если ничего нового не всплывёт.&lt;/p&gt;
-&lt;p&gt;Такие дела.&lt;/p&gt;
-</description>
-        <link>http://www.dugwin.net/blog/00425.html</link>
-        
-    </item>
-    
-    <item>
-        <title>Пока</title>
-        <pubDate>Sun, 05 Apr 2015 15:39:35 +0300</pubDate>
-        <guid>http://www.dugwin.net/blog/00424.html</guid>
-        <description>&lt;p&gt;Привет.&lt;/p&gt;
-&lt;p&gt;Гугл меня очень очень очень сильно заколебал, поэтому я устал, я ухожу.&lt;/p&gt;
-&lt;p&gt;Это сообщение повисит тут неделю-две чтобы попасть во все rss и потом я всё это дело тут закрою. Закрою, чтобы, конечно, вернуться. В каком-то из видов, в общем то и так движухи особо никакой, как вы заметили, нет.&lt;/p&gt;
-&lt;p&gt;Кстати, принимаются предложения по движкам статических (потому что заколебало) бложиков, сейчас кое-какие варианты уже нашлись, надо всё посмотреть, потестировать… Такие дела.&lt;/p&gt;
-&lt;p&gt;Пока.&lt;/p&gt;
-</description>
-        <link>http://www.dugwin.net/blog/00424.html</link>
         
     </item>
     
